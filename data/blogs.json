@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Annual Sports Day 2024: A Day of Joy and Achievement",
+    "slug": "annual-sports-day-2024",
+    "excerpt": "Our annual sports day brought together over 200 children for a day filled with games, laughter, and unforgettable memories.",
+    "content": "Last Saturday marked another successful Annual Sports Day at Save the Sangrila Foundation. Over 200 children participated in various sporting events including relay races, football, volleyball, and traditional Nepali games.\n\nThe event was graced by local community leaders and generous donors who witnessed firsthand the joy and enthusiasm of our students. Winners received medals and certificates, while every participant was awarded a participation trophy to celebrate their spirit.\n\nWe are grateful to our volunteers who made this event possible and to our sponsors who provided sports equipment and refreshments for all attendees.",
+    "image": "/happy-children-playing-sports-in-nepal.jpg",
+    "category": "Events",
+    "author": "Ramesh Sharma",
+    "date": "2024-03-15",
+    "published": true
+  },
+  {
+    "id": "2",
+    "title": "Winter Warmth Campaign: Distributing Blankets to 150 Families",
+    "slug": "winter-warmth-campaign-2024",
+    "excerpt": "As temperatures drop in the mountains, we distributed warm blankets and winter clothing to families in need across three villages.",
+    "content": "The harsh winter months in Nepal's mountain regions can be challenging for families living in poverty. This year, our Winter Warmth Campaign successfully distributed warm blankets, jackets, and winter clothing to 150 families across three remote villages.\n\nThanks to generous donations from our supporters worldwide, we were able to provide essential winter supplies that will help families stay warm throughout the cold season. Each family received two blankets, thermal clothing for children, and warm socks.\n\nOur team traveled to Sindhupalchok, Dolakha, and Ramechhap districts to personally deliver these items. The gratitude expressed by families was heartwarming and reinforces our commitment to serving those in need.",
+    "image": "/warm-blankets-and-winter-clothing-donation.jpg",
+    "category": "Donation Drives",
+    "author": "Sita Adhikari",
+    "date": "2024-02-20",
+    "published": true
+  },
+  {
+    "id": "3",
+    "title": "Education Fund Success: 50 Students Receive Full Scholarships",
+    "slug": "education-fund-success-2024",
+    "excerpt": "We are thrilled to announce that 50 deserving students have been awarded full scholarships for the upcoming academic year.",
+    "content": "Education is the foundation of a better future, and we are proud to announce that 50 students from underprivileged backgrounds have received full scholarships for the 2024 academic year.\n\nThese scholarships cover tuition fees, books, uniforms, and school supplies. The selection process was rigorous, considering both academic merit and financial need. Among the recipients are students from single-parent households, orphans, and children from families affected by natural disasters.\n\nWe extend our heartfelt thanks to our donors whose contributions made these scholarships possible. These students now have the opportunity to pursue their dreams and build a brighter future for themselves and their families.",
+    "image": "/happy-students-with-books-in-nepal.jpg",
+    "category": "Education",
+    "author": "Prakash Thapa",
+    "date": "2024-01-10",
+    "published": true
+  },
+  {
+    "id": "4",
+    "title": "Diwali Celebration: Spreading Light and Hope",
+    "slug": "diwali-celebration-2024",
+    "excerpt": "Our Diwali celebration brought together children and families for a festival of lights, food, and cultural performances.",
+    "content": "This year's Diwali celebration at Save the Sangrila Foundation was a spectacular event filled with lights, traditional dances, and delicious food. Over 300 children and their families attended the festivities at our community center.\n\nThe evening featured traditional Nepali cultural performances, a rangoli competition, and the lighting of hundreds of diyas. Children received new clothes and sweets, bringing smiles to their faces during this auspicious festival.\n\nSpecial thanks to our volunteer performers who entertained everyone with traditional dances and songs, and to local businesses who sponsored the event. These celebrations not only preserve our cultural heritage but also strengthen community bonds.",
+    "image": "/children-celebrating-diwali-with-lamps-in-nepal.jpg",
+    "category": "Events",
+    "author": "Anjali Gurung",
+    "date": "2024-11-12",
+    "published": true
+  },
+  {
+    "id": "5",
+    "title": "Emergency Relief: Supporting Flood-Affected Families",
+    "slug": "flood-relief-2024",
+    "excerpt": "In response to recent flooding, we provided emergency relief supplies to 100 affected families in the Terai region.",
+    "content": "The recent monsoon floods in Nepal's Terai region displaced hundreds of families and destroyed homes and crops. Save the Sangrila Foundation immediately mobilized our emergency response team to provide relief to affected communities.\n\nWe distributed emergency relief kits containing food supplies, clean drinking water, hygiene products, and temporary shelter materials to 100 families in the worst-affected areas. Our team also provided medical assistance and helped reunite separated family members.\n\nThis emergency response was made possible by the quick contributions from our global donor network. We continue to monitor the situation and are committed to supporting these families through the recovery process.",
+    "image": "/flood-relief-aid-distribution-in-nepal.jpg",
+    "category": "Emergency Relief",
+    "author": "Dr. Binod Karki",
+    "date": "2024-08-05",
+    "published": true
+  }
+]
