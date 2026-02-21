@@ -6,26 +6,26 @@ export function Programs() {
   const programs = [
     {
       icon: BookOpen,
-      title: "Education Funding",
+      title: "Educational Support",
       description:
-        "We provide full and partial scholarships to children from underprivileged families, covering school fees, uniforms, books, and supplies.",
-      image: "/nepali-student-with-books.jpg",
+        "We provide full and partial scholarships to children from single parents, covering school fees, uniforms, books, and supplies.",
+      image: "/eductaion_support.jpeg",
     },
     {
       icon: DollarSign,
-      title: "Direct Donations",
+      title: "Emergency Relief Program",
       description:
         "Financial assistance for families in need, helping cover basic necessities so children can focus on their education without worry.",
-      image: "/helping-hands-donation.jpg",
+      image: "/relief.jpg",
     },
     {
       icon: Users,
-      title: "Free Tuition Classes",
+      title: "Student to Student Tution Program",
       description:
         "After-school tutoring and mentorship programs to help students excel academically and develop critical life skills.",
-      image: "/teacher-helping-students-classroom.jpg",
+      image: "/sts.jpg",
     },
-  ]
+  ];
 
   return (
     <section id="programs" className="py-16 lg:py-24">
