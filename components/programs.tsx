@@ -15,14 +15,14 @@ export function Programs() {
       icon: DollarSign,
       title: "Emergency Relief Program",
       description:
-        "Financial assistance for families in need, helping cover basic necessities so children can focus on their education without worry.",
+        "Material and financial assistance for families in need, helping during time of emergencies and relief work.",
       image: "/relief.jpg",
     },
     {
       icon: Users,
       title: "Student to Student Tution Program",
       description:
-        "After-school tutoring and mentorship programs to help students excel academically and develop critical life skills.",
+        "Our after-school tutoring and mentorship program helps junior students excel academically while empowering senior students to support and uplift those in need",
       image: "/sts.jpg",
     },
   ];
